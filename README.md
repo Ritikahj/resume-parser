@@ -54,7 +54,5 @@ This project leverages Natural Language Processing (NLP) and Deep Learning to au
 2. Lakshmi Padmaja et al., 2023. *Automated Resume Screening Using NLP*.
 3. Sroison et al., 2024. *Resume Parser with NLP*.
 
----
-
 ## Feedback
 Building this system applied NLP knowledge to a practical challenge. The results validated the approach and highlighted areas for future exploration.
